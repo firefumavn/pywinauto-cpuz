@@ -1,2 +1,2 @@
 # pywinauto-cpuz
-Autotest
+Automation test
